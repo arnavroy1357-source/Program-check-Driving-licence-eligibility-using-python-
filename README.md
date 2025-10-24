@@ -17,4 +17,4 @@ Interactive menu with options to check again or exit
 
 
 Tech Used:
-🧠 Python (Conditionals, Loops, Functions, Input Handling)
+🧠 Python (Conditionals, Loops, Functions, Input Handling).
